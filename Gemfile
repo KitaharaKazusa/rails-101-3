@@ -37,6 +37,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'devise'
+gem 'will_paginate'
 
 
 group :development, :test do
